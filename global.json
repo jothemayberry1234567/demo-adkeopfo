@@ -1,0 +1,14 @@
+{
+    "plugin_status": true,
+    "CurrentFivemVersion": ["1.1.0"],
+    "command_validation_str": "Radio20",
+    "current_versions": ["1.1.1", "1.1.1-rc1"],
+    "authorized_servers": [],
+    "permitted_version": [""],
+    "dev_uid_list": [
+        "GhfyobshzntzcZnh6o+IEUmJEc0=",
+        "xeC4XznolCFCX7vofE7gGg2cYKw=",
+        "9S3J/7yfQKA5V93PfSMB+dbPUOM=",
+        "CZtAADKWCwgCEhxpNuyZMLWh/wI="
+    ]
+}
