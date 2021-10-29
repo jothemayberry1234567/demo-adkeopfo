@@ -1,0 +1,236 @@
+{
+    "pluginStatus": true,
+    "isPaid": true,
+    "communityName": "RP 2",
+    "features": {
+        "inGameInterface": true,
+        "rangeSimulation": true,
+        "emergencyHotline": true
+    },
+    "talkAroundRange": 1500,
+    "betaServerGroups": [""],
+    "dispatchServerGroups": ["7352"],
+    "dispatchAdvancedServerGroups": [9],
+    "dispatchNameTags": [
+        "(P)",
+        "(S)",
+        "(T)",
+        "(FIRE)",
+        "(QA)",
+        "(EVAL)",
+        "[P]",
+        "[S]",
+        "[T]",
+        "[FIRE]",
+        "[QA]",
+        "[EVAL]"
+    ],
+    "civilianServerGroups": [""],
+    "civChannels": [0],
+    "radioSystems": [3],
+    "rtoChannels": [11],
+    "radioChannels": [
+        {
+            "id": 1,
+            "name": "SLEMARS 22",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]SLEMARS 22[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 2,
+            "name": "CAR TO CAR",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]CAR TO CAR[/color]",
+            "talkEnforcement": true,
+            "talkAround": true,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 3,
+            "name": "HP NORTH",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=purple]HP NORTH[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 4,
+            "name": "HP SOUTH",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=purple]HP SOUTH[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 5,
+            "name": "SO AREA 3",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]SO AREA 3[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 6,
+            "name": "SO AREA 4/5",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]SO AREA 4/5[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 7,
+            "name": "SO AREA 6",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]SO AREA 6[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 8,
+            "name": "SO TAC 1",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]SO TAC 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 9,
+            "name": "SO TAC 2",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]SO TAC 2[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 10,
+            "name": "SO TAC 3",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]SO TAC 3[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 11,
+            "name": "PD MAIN",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]PD MAIN[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 12,
+            "name": "PD TAC",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]PD TAC[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 13,
+            "name": "DNR NORTH",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]DNR NORTH[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 14,
+            "name": "DNR SOUTH",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]DNR SOUTH[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        }
+    ],
+    "time_settings": {
+        "emergencyOverridePeriod": 10,
+        "emergencyCooldown": 30,
+        "emergencyOtherCooldown": 20,
+        "dispatchToneCooldown": 15,
+        "radioStunCooldown": 5,
+        "radioPingCooldown": 10,
+        "911Cooldown": 30,
+        "commandStunPeriod": 300,
+        "toneWaitTalkPeriod": 5
+    },
+    "permissions": {
+        "permBasic": {
+            "serverGroupList": [""]
+        },
+        "permExtra": {
+            "serverGroupList": [""]
+        },
+        "permSit": {
+            "serverGroupList": [""]
+        },
+        "permStaff": {
+            "serverGroupList": ["7343", "7342", "7341", "7339"]
+        },
+        "permSenior": {
+            "serverGroupList": [""]
+        },
+        "permAdmin": {
+            "serverGroupList": [""]
+        },
+        "permSuper": {
+            "serverGroupList": ["6"]
+        }
+    }
+}
